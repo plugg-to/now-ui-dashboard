@@ -2756,13 +2756,13 @@ Created using IcoMoon - icomoon.io
       color: #2CA8FF; }
   .sidebar[data-color="green"]:after,
   .off-canvas-sidebar[data-color="green"]:after {
-    background: #18ce0f; }
+    background: #0F8809; }
   .sidebar[data-color="green"] .nav li.active > a,
   .off-canvas-sidebar[data-color="green"] .nav li.active > a {
-    color: #18ce0f; }
+    color: #0F8809; }
     .sidebar[data-color="green"] .nav li.active > a i,
     .off-canvas-sidebar[data-color="green"] .nav li.active > a i {
-      color: #18ce0f; }
+      color: #0F8809; }
   .sidebar[data-color="orange"]:after,
   .off-canvas-sidebar[data-color="orange"]:after {
     background: #f96332; }
